@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hola, mi nombre es Alejandro Chavarría.</h1>
 <h3 align="center">Desarrollador Front-End y diseñador web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexgoodd&label=Profile%20views&color=0e75b6&style=flat" alt="alexgoodd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexgoodd" alt="alexgoodd" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Encuentrame en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emmanuel alejandro chavarría buendía" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel alejandro chavarría buendía" height="30" width="40" /></a>
 </p>
