@@ -7,8 +7,8 @@ Soy un estudiante de ingeniera en tecnología software.
 Empece mi carrera en 2022 y mas allá de limitarme al conocimiento impartido por mis maestros decidí adentrarme al mundo de la programación por diversos medios, entre uno de ellos Github.
 No he parado de informarme y conocer distintos medios para el desarrollo de mis habilidades, con el tiempo tome la decisión de orientarme mas al desarrollo front-end y el diseño web de forma independiente, tengo en mente seguir aprendiendo distintas tecnologías con el fin de aumentar mas mis conocimientos general e individuales.
 
-## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+## Lenguajes y Herramientas:
+[![Apple](https://img.shields.io/badge/C-gray)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
