@@ -26,12 +26,6 @@ No he parado de informarme y conocer distintos medios para el desarrollo de mis 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chavarr%C3%ADa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=blue)](https://www.linkedin.com/in/emmanuel-alejandro-chavarria-buendia-a9ab24237/)
 
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-
-## Contacto y apoyo:
+## Contacto:
 
 [![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=blue)](mailto:alejandrochavarb@gmail.com)
