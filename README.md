@@ -5,6 +5,7 @@ Soy un estudiante de ingeniera en tecnología software.
 
 
 Empece mi carrera en 2022 y mas allá de limitarme al conocimiento impartido por mis maestros decidí adentrarme al mundo de la programación por diversos medios, entre uno de ellos Github.
+
 No he parado de informarme y conocer distintos medios para el desarrollo de mis habilidades, con el tiempo tome la decisión de orientarme mas al desarrollo front-end y el diseño web de forma independiente, tengo en mente seguir aprendiendo distintas tecnologías con el fin de aumentar mas mis conocimientos general e individuales.
 
 ## Lenguajes y Herramientas:
