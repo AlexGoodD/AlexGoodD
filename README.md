@@ -13,10 +13,6 @@ No he parado de informarme y conocer distintos medios para el desarrollo de mis 
 [![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=black&labelColor=white&color=red)]()
 [![Blender](https://img.shields.io/badge/blender-31A8FF?style=for-the-badge&logo=blender&logoColor=black&labelColor=white&color=orange)]()
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 [![C](https://img.shields.io/badge/C-31A8FF?style=for-the-badge&logo=C&logoColor=black&labelColor=white&color=d60007)]()
 [![HTML](https://img.shields.io/badge/html5-31A8FF?style=for-the-badge&logo=html5&logoColor=black&labelColor=white&color=fa5316)]()
 [![CSS](https://img.shields.io/badge/CSS3-31A8FF?style=for-the-badge&logo=css3&logoColor=black&labelColor=white&color=2344e8)]()
