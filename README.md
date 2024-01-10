@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Alejandro Chavarría.</h1>
-<h3 align="center">Soy un desarrollador Front-End, y diseñador web, siempre intento seguir mejorando.</h3>
+<h1 align="center">👋 Hola, mi nombre es Alejandro Chavarría.</h1>
+<h3 align="center">Desarrollador Front-End y diseñador web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexgoodd&label=Profile%20views&color=0e75b6&style=flat" alt="alexgoodd" /> </p>
 
