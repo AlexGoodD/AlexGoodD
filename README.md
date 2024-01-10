@@ -8,10 +8,10 @@ Empece mi carrera en 2022 y mas allá de limitarme al conocimiento impartido por
 No he parado de informarme y conocer distintos medios para el desarrollo de mis habilidades, con el tiempo tome la decisión de orientarme mas al desarrollo front-end y el diseño web de forma independiente, tengo en mente seguir aprendiendo distintas tecnologías con el fin de aumentar mas mis conocimientos general e individuales.
 
 ## Lenguajes y Herramientas:
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=black&color=blue)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=black&color=844719)]()
-[![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=black&color=red)]()
-[![Blender](https://img.shields.io/badge/blender-31A8FF?style=for-the-badge&logo=blender&logoColor=white&labelColor=black&color=orange)]()
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black&labelColor=white&color=blue)]()
+[![Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=black&labelColor=white&color=844719)]()
+[![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=black&labelColor=white&color=red)]()
+[![Blender](https://img.shields.io/badge/blender-31A8FF?style=for-the-badge&logo=blender&logoColor=black&labelColor=white&color=orange)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
