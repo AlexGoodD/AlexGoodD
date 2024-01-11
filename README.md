@@ -1,10 +1,9 @@
 ## 👋 Hola, mi nombre es Alejandro Chavarría
 ### Desarrollador Front-End y Diseñador Web Freelancer
 
-Soy un estudiante de ingeniera en tecnología software.
+Soy un estudiante de ingeniera en tecnología de software.
 
-
-Empece mi carrera en 2022 y mas allá de limitarme al conocimiento impartido por mis maestros decidí adentrarme al mundo de la programación por diversas plataformas, entre una de ellas Github.
+Empece mi carrera en 2022 y mas allá de limitarme al conocimiento impartido por mis maestros decidí adentrarme al mundo de la programación por diversas plataformas, entre ellas, Github.
 
 No he parado de informarme y conocer distintos medios para el desarrollo de mis habilidades, con el tiempo tome la decisión de orientarme mas al desarrollo front-end y el diseño web de forma independiente, tengo en mente seguir aprendiendo distintas tecnologías con el fin de aumentar mis conocimientos generales y específicos.
 
