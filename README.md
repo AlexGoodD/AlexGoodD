@@ -24,7 +24,7 @@ No he parado de informarme y conocer distintos medios para el desarrollo de mis 
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chavarr%C3%ADa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=blue)](https://www.linkedin.com/in/emmanuel-alejandro-chavarria-buendia-a9ab24237/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chavarr%C3%ADa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=blue)](www.linkedin.com/in/alejandro-chavarria-a9ab24237)
 
 ## Contacto:
 
