@@ -21,6 +21,9 @@ No he parado de informarme y conocer distintos medios para el desarrollo de mis 
 [![PHP](https://img.shields.io/badge/php-31A8FF?style=for-the-badge&logo=php&logoColor=black&labelColor=white&color=9684bd)]()
 </br>
 [![Bootstrap](https://img.shields.io/badge/bootstrap-31A8FF?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=white&color=4306c7)]()
+</br>
+[![Flutter](https://img.shields.io/badge/flutter-31A8FF?style=for-the-badge&logo=flutter&logoColor=black&labelColor=white&color=blue)]()
+[![Swift](https://img.shields.io/badge/swift-31A8FF?style=for-the-badge&logo=swift&logoColor=black&labelColor=white&color=orange)]()
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chavarr%C3%ADa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=blue)](https://www.linkedin.com/in/alejandro-chavarria-a9ab24237/)
