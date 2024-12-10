@@ -1,32 +1,50 @@
-## 👋 Hola, mi nombre es Alejandro Chavarría
+
+
+# 👋 ¡Hola! soy Alejandro Chavarria
 ### Desarrollador Front-End y Diseñador Web Freelancer
 
-Soy un estudiante de ingeniera en tecnología de software.
+Soy estudiante de Ingeniería en Tecnología de Software en la Universidad Autónoma de Nuevo León (UANL) desde 2022. Durante este tiempo, he complementado mi formación académica con aprendizaje autodidacta a través de plataformas como GitHub y cursos en línea.
 
-Empece mi carrera en 2022 y mas allá de limitarme al conocimiento impartido por mis maestros decidí adentrarme al mundo de la programación por diversas plataformas, entre ellas, Github.
+Mi pasión por la programación me ha llevado a especializarme en desarrollo front-end y diseño web, donde he trabajado en proyectos personales que han fortalecido mis habilidades en tecnologías modernas.
 
-No he parado de informarme y conocer distintos medios para el desarrollo de mis habilidades, con el tiempo tome la decisión de orientarme mas al desarrollo front-end y el diseño web de forma independiente, tengo en mente seguir aprendiendo distintas tecnologías con el fin de aumentar mis conocimientos generales y específicos.
+- 👨‍💻 Mis projectos se encuentran disponibles en mi [**Portafolio**](https://alejandro-chavarb-3364d.web.app)
 
-## Lenguajes y Herramientas:
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black&labelColor=white&color=blue)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=black&labelColor=white&color=844719)]()
-[![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=black&labelColor=white&color=red)]()
-[![Blender](https://img.shields.io/badge/blender-31A8FF?style=for-the-badge&logo=blender&logoColor=black&labelColor=white&color=orange)]()
-</br>
-[![C](https://img.shields.io/badge/C-31A8FF?style=for-the-badge&logo=C&logoColor=black&labelColor=white&color=d60007)]()
-[![HTML](https://img.shields.io/badge/html5-31A8FF?style=for-the-badge&logo=html5&logoColor=black&labelColor=white&color=fa5316)]()
-[![CSS](https://img.shields.io/badge/CSS3-31A8FF?style=for-the-badge&logo=css3&logoColor=black&labelColor=white&color=2344e8)]()
-[![JS](https://img.shields.io/badge/JAVASCRIPT-31A8FF?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white&color=ffc403)]()
-[![Python](https://img.shields.io/badge/python-31A8FF?style=for-the-badge&logo=python&logoColor=black&labelColor=white&color=yellow)]()
-[![PHP](https://img.shields.io/badge/php-31A8FF?style=for-the-badge&logo=php&logoColor=black&labelColor=white&color=9684bd)]()
-</br>
-[![Bootstrap](https://img.shields.io/badge/bootstrap-31A8FF?style=for-the-badge&logo=bootstrap&logoColor=black&labelColor=white&color=4306c7)]()
-[![Flutter](https://img.shields.io/badge/flutter-31A8FF?style=for-the-badge&logo=flutter&logoColor=black&labelColor=white&color=blue)]()
-[![Swift](https://img.shields.io/badge/swift-31A8FF?style=for-the-badge&logo=swift&logoColor=black&labelColor=white&color=orange)]()
+- 📫 Contactame por medio de mi correo electrónico [**alejandrochavarb@gmail.com**](mailto:alejandrochavarb@gmail.com) o conecta conmigo en [**LinkedIn**](https://www.linkedin.com/in/alejandro-chavarb/)
 
-## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chavarr%C3%ADa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=blue)](https://www.linkedin.com/in/alejandro-chavarria-a9ab24237/)
 
-## Contacto:
+## 🎯 Mi objetivo
 
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=blue)](mailto:alejandrochavarb@gmail.com)
+Continuar aprendiendo e integrando nuevas tecnologías para ampliar mis conocimientos generales y específicos, manteniéndome actualizado en este campo en constante evolución. Mi enfoque está en crear soluciones innovadoras, funcionales y con un diseño atractivo, siempre buscando mejorar la experiencia del usuario.
+
+## 🔧 Lenguajes y Herramientas:
+
+### Front-end
+[![HTML](https://img.shields.io/badge/html5-31A8FF?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white&color=fa5311)]()
+[![CSS](https://img.shields.io/badge/CSS3-31A8FF?style=for-the-badge&logo=css3&logoColor=4a8fff&labelColor=white&color=2d6bcf)]()
+[![JS](https://img.shields.io/badge/JAVASCRIPT-31A833?style=for-the-badge&logo=javascript&logoColor=d4a722&labelColor=white&color=edb710)]()
+[![Flutter](https://img.shields.io/badge/flutter-31A8FF?style=for-the-badge&logo=flutter&logoColor=0a72ad&labelColor=white&color=49bbfc)]()
+[![Vue](https://img.shields.io/badge/vue.js-31A8FF?style=for-the-badge&logo=vue.js&logoColor=26302f&labelColor=white&color=44b365)]()
+[![Swift](https://img.shields.io/badge/swift-31A8FF?style=for-the-badge&logo=swift&logoColor=ff9021&labelColor=white&color=cc431d)]()
+[![Dart](https://img.shields.io/badge/dart-31A8FF?style=for-the-badge&logo=dart&logoColor=49bbfc&labelColor=white&color=0a72ad)]()
+### Back-end
+[![PHP](https://img.shields.io/badge/php-31A8FF?style=for-the-badge&logo=php&logoColor=9684bd&labelColor=white&color=9684bd)]()
+[![Python](https://img.shields.io/badge/python-31A8FF?style=for-the-badge&logo=python&logoColor=e0cd1b&labelColor=white&color=3b6ba1)]()
+[![Firebase](https://img.shields.io/badge/firebase-31A8FF?style=for-the-badge&logo=firebase&logoColor=d63722&labelColor=white&color=ffc800)]()
+### Diseño y Herramientas Gráficas
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=blue&labelColor=white&color=0c4099)]()
+[![Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=fc861e&labelColor=white&color=4f0e03)]()
+[![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=ad24158&labelColor=white&color=292933)]()
+## 💼 Proyectos destacados
+- 🌃🚶🏻 [**Moonhike**](https://github.com/AlexGoodD/moonhike): Aplicación diseñada para facilitar la navegación nocturna de peatones, ofreciendo rutas seguras en la ciudad mediante la integración de reportes comunitarios y noticias locales en tiempo real.
+<br>
+
+- 💻 [**UanLog**](https://github.com/AlexGoodD/blog-vue): Sitio web que permite crear y gestionar publicaciones mediante un sistema CRUD, con autenticación integrada utilizando Firebase.
+<br>
+
+- 💸 [**PocketPal**](https://github.com/AlexGoodD/PocketPal): Aplicación web para la gestión eficiente de finanzas personales, con visualización de gastos, exportación a Excel y funcionalidad CRUD.
+<br>
+
+- ⌚️📈 [**PomodoroClock**](https://github.com/AlexGoodD/Pomodoro-Clock-WatchOS): Aplicación para Apple Watch que utiliza el método Pomodoro para aumentar la productividad, con un reloj modificado diseñado para gestionar tareas de manera eficiente.
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexgoodd&" alt="alexgoodd" /></p>
