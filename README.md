@@ -12,11 +12,11 @@ Mi pasión por la programación me ha llevado a especializarme en desarrollo fro
 - 📫 Contactame por medio de mi correo electrónico [**alejandrochavarb@gmail.com**](mailto:alejandrochavarb@gmail.com) o conecta conmigo en [**LinkedIn**](https://www.linkedin.com/in/alejandro-chavarb/)
 
 
-## 🎯 Mi objetivo
+## 🎯 Mi Objetivo
 
 Continuar aprendiendo e integrando nuevas tecnologías para ampliar mis conocimientos generales y específicos, manteniéndome actualizado en este campo en constante evolución. Mi enfoque está en crear soluciones innovadoras, funcionales y con un diseño atractivo, siempre buscando mejorar la experiencia del usuario.
 
-## 🔧 Lenguajes y Herramientas:
+## 🔧 Lenguajes y Herramientas
 
 ### Front-end
 [![HTML](https://img.shields.io/badge/html5-31A8FF?style=for-the-badge&logo=html5&logoColor=orange&labelColor=white&color=fa5311)]()
@@ -34,7 +34,7 @@ Continuar aprendiendo e integrando nuevas tecnologías para ampliar mis conocimi
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=blue&labelColor=white&color=0c4099)]()
 [![Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=fc861e&labelColor=white&color=4f0e03)]()
 [![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=ad24158&labelColor=white&color=292933)]()
-## 💼 Proyectos destacados
+## 💼 Proyectos Destacados
 - 🌃🚶🏻 [**Moonhike**](https://github.com/AlexGoodD/moonhike): Aplicación diseñada para facilitar la navegación nocturna de peatones, ofreciendo rutas seguras en la ciudad mediante la integración de reportes comunitarios y noticias locales en tiempo real.
 <br>
 
