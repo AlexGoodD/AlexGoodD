@@ -34,11 +34,13 @@ Continuar aprendiendo e integrando nuevas tecnologías para ampliar mis conocimi
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=blue&labelColor=white&color=0c4099)]()
 [![Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=fc861e&labelColor=white&color=4f0e03)]()
 [![Figma](https://img.shields.io/badge/Figma-31A8FF?style=for-the-badge&logo=figma&logoColor=ad24158&labelColor=white&color=292933)]()
+
 ## 💼 Proyectos Destacados
-- 🌃🚶🏻 [**Moonhike**](https://github.com/AlexGoodD/moonhike): Aplicación diseñada para facilitar la navegación nocturna de peatones, ofreciendo rutas seguras en la ciudad mediante la integración de reportes comunitarios y noticias locales en tiempo real.
+
+- 💸📱 [**Saldoo**](https://github.com/AlexGoodD/Saldoo): Aplicación móvil para la gestión de finanzas personales. Administra tarjetas de débito y crédito, controla deudas, fija metas de ahorro y más. Desarrollada especialmente para el ecosistema Apple.
 <br>
 
-- 💻 [**UanLog**](https://github.com/AlexGoodD/blog-vue): Sitio web que permite crear y gestionar publicaciones mediante un sistema CRUD, con autenticación integrada utilizando Firebase.
+- 🌃🚶🏻 [**Moonhike**](https://github.com/AlexGoodD/moonhike): Aplicación diseñada para facilitar la navegación nocturna de peatones, ofreciendo rutas seguras en la ciudad mediante la integración de reportes comunitarios y noticias locales en tiempo real.
 <br>
 
 - 💸 [**PocketPal**](https://github.com/AlexGoodD/PocketPal): Aplicación web para la gestión eficiente de finanzas personales, con visualización de gastos, exportación a Excel y funcionalidad CRUD.
